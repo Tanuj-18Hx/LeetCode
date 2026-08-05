@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0015-3sum) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
