@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
