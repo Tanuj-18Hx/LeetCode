@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0283-move-zeroes) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -69,4 +70,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
