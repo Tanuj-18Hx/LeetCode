@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
+| [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,8 +74,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
