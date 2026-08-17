@@ -3,21 +3,21 @@ class Solution {
         if(x==0 || x==1){
             return x;
         }
-        int st = 1;
-        int end = x ;
+        int left = 1;
+        int right = x ;
         int ans = 0 ;
 
-        while(st<=end){
-            int mid = st + (end-st)/2;
+        while(left<=right){
+            int mid = left + (right - left)/2;
             if(mid==x/mid){
                 return mid;
             }
             else if(mid < x / mid){
                 ans = mid ;
-                st = mid + 1; 
+                left = mid + 1; 
             }
             else{
-                end = mid -1 ;
+                right = mid -1 ;
             }
         }
         return ans ;
