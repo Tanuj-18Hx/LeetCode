@@ -10,6 +10,6 @@ class Solution {
         n/=10 ;
        } 
        int quot = sum + prod ;
-       return org % quot ==  ;
+       return org % quot == 0 ;
     }
 }
