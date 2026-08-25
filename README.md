@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0771-jewels-and-stones) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0771-jewels-and-stones) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
