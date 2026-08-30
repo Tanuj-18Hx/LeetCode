@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0896-monotonic-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1528-shuffle-string](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1528-shuffle-string) |
+| [1732-find-the-highest-altitude](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
