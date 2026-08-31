@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0896-monotonic-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
