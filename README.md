@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0162-find-peak-element) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0055-jump-game) |
 ## Counting
 |  |
 | ------- |
