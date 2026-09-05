@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Bit Manipulation
 |  |
