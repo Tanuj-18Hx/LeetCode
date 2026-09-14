@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3870-count-commas-in-range) |
