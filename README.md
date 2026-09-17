@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0383-ransom-note) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Greedy
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0202-happy-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0191-number-of-1-bits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
