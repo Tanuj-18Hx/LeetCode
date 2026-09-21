@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |
