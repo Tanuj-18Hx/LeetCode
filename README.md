@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0392-is-subsequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0392-is-subsequence) |
