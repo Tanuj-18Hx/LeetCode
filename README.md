@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1528-shuffle-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Divide and Conquer
 |  |
