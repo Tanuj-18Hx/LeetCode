@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1528-shuffle-string](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1528-shuffle-string) |
 | [1732-find-the-highest-altitude](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1051-height-checker](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1051-height-checker) |
 ## Timsort
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
