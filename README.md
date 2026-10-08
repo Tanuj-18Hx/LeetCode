@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0202-happy-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [3028-ant-on-the-boundary](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3701-compute-alternating-sum) |
