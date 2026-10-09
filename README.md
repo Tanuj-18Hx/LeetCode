@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0202-happy-number) |
+| [1025-divisor-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1025-divisor-game) |
 ## Counting
 |  |
 | ------- |
@@ -251,4 +253,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
