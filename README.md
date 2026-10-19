@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1528-shuffle-string) |
 | [1732-find-the-highest-altitude](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3028-ant-on-the-boundary](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Timsort
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ternary Search
 |  |
