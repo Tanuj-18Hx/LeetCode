@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3028-ant-on-the-boundary](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3028-ant-on-the-boundary) |
