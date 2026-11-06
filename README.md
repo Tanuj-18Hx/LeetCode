@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3028-ant-on-the-boundary](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Timsort
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0383-ransom-note) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
