@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Database
 |  |
 | ------- |
