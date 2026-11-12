@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
