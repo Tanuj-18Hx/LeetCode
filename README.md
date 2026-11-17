@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0836-rectangle-overlap](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1025-divisor-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0046-permutations) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
