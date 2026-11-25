@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Divide and Conquer
 |  |
 | ------- |
