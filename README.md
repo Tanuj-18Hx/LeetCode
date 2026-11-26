@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
