@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3028-ant-on-the-boundary](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3028-ant-on-the-boundary) |
+| [3360-stone-removal-game](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Ordered Set
