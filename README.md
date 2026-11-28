@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Tanuj-18Hx/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Tanuj-18Hx/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Tanuj-18Hx/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
